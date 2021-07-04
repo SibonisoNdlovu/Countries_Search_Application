@@ -1,0 +1,34 @@
+{
+		"Reel1": ["cherry", "lemon", "apple", "lemon", "banana", "banana", "lemon", "lemon"],
+		"Reel2": ["lemon", "apple", "lemon", "lemon", "cherry", "apple", "banana", "lemon"],
+        "Reel3": ["lemon", "apple", "lemon", "apple", "cherry", "lemon", "banana", "lemon"],
+        "winningCombos" : [
+            ["cherry","cherry","cherry"],
+            ["apple","apple","apple"],
+            ["banana","banana","banana"],
+            ["lemon","lemon","lemon"],
+            ["cherry","cherry","apple"],
+            ["cherry","cherry","banana",
+            ["cherry","cherry","lemon"],
+            ["apple","apple","cherry"],
+            ["apple","apple","banana"],
+            ["apple","apple","lemon"],
+            ["banana","banana","cherry"],
+            ["banana","banana","apple"],
+            ["banana","banana","lemon"]]],
+        "winAmount" : [
+                50,
+                20,
+                15,
+                3,
+                40,
+                40,
+                40,
+                10,
+                10,
+                10,
+                5,
+                5,
+                5
+            ]
+	}
